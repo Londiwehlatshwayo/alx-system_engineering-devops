@@ -1,1 +1,1 @@
- 12. File type
+Display current directory contents
